@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m Maleesha Kavindi Gunarathna
+- 🎓 Undergraduate in Computer Science at University of Colombo School of Computing
+- 📫 How to reach me : maleeshakavindigunarathna@gmail.com
 
 <!--
 **MaleeshaGunarathna/MaleeshaGunarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
