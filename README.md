@@ -43,7 +43,7 @@
 <!--  <summary>:zap: GitHub Stats</summary>  -->
 <br/>
 <p>&nbsp;
- <img  align="center" alt="Maleesha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaleeshaGunarathna&show_icons=true&hide_border=true" />
+<!--  <img  align="center" alt="Maleesha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaleeshaGunarathna&show_icons=true&hide_border=true" /> -->
 
 
 
